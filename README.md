@@ -4,7 +4,7 @@
 - The resources folder contain snapshots of the code, logic diagram and block diagram of the whole system.
 
 ## Installation and Usage
-- [Vivado Design Suite](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html, 'link to site') was used in the creation for the project.
+- [Vivado Design Suite](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html 'link to site') was used in the creation for the project.
 
 1. Create a new folder in your computer and clone this repo there.
     ```bash
@@ -13,7 +13,7 @@
         git clone https://github.com/AnnonymousCoder/FPGA-Pong.git
     ```
 
-2. Install Vivado Design Suite from the link above. [Click for Installation instructions](https://digilent.com/reference/programmable-logic/guides/installing-vivado-and-vitis, 'installation instructions link')
+2. Install Vivado Design Suite from the link above. [Click for Installation instructions](https://digilent.com/reference/programmable-logic/guides/installing-vivado-and-vitis 'installation instructions link')
 
 2. Once installation is done, open Vivado and on the Quick Start Section click Open Project. Locate the folder you just created and select it for opening.
 
