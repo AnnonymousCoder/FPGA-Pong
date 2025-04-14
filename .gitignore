@@ -1,0 +1,10 @@
+.Xil
+Simple Pong.cache
+Simple Pong.hw
+Simple Pong.ip_user_files
+Simple Pong.runs
+Simple Pong.sim
+vivado*.jou
+vivado*.log
+vivado*.str
+*.wcfg
